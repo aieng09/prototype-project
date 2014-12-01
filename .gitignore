@@ -1,0 +1,19 @@
+#################
+# Files
+#################
+*.class
+*.classpath
+*.project
+*.settings
+*.springBeans
+*.iml
+*ide-plugin.xml
+*.log
+#################
+# Directories
+#################
+target/
+bin/
+.idea/
+.settings/
+.tscache/
